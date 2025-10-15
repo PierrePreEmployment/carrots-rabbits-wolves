@@ -62,9 +62,9 @@ Available in both `results.txt` and `world-simulation-results.png` files.
 
 [![Pierre-Henry Soria](https://s.gravatar.com/avatar/a210fe61253c43c869d71eaed0e90149?s=200)](https://PH7.me 'Pierre-Henry Soria personal website')
 
-☕️ Do you enjoy this project? Would you feel like **[offering me a coffee...?](https://ko-fi.com/phenry)** (spoiler alert: I love almond flat white! 😋)
+☕️ Do you enjoy this project? Would you feel like **[offering me an oat flat white?](https://ko-fi.com/phenry)?** 😋
 
-[![X @phenrysay][x-icon]](https://x.com/phenrysay "Follow Me on X") [![YouTube Tech Videos][yt-icon]](https://www.youtube.com/@pH7Programming "My YouTube Tech Channel") [![BlueSky][bsky-icon]](https://bsky.app/profile/ph7.me "Follow Me on BlueSky") [![pH-7][github-icon]](https://github.com/pH-7 "Follow Me on GitHub")
+[![X @phenrysay][x-icon]](https://x.com/phenrysay "Follow Me on X") [![YouTube Tech Videos][yt-icon]](https://www.youtube.com/@pH7Programming "My YouTube Tech Channel") [![BlueSky][bsky-icon]](https://bsky.app/profile/pierrehenry.dev "Follow Me on BlueSky") [![pH-7][github-icon]](https://github.com/pH-7 "Follow Me on GitHub")
 
 
 ## License
